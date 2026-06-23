@@ -65,9 +65,11 @@ Cuando no estoy desarrollando software empresarial, me gusta mantener mi mente a
 
 Actualmente me encuentro en la **búsqueda activa de mi próximo reto profesional** en el sector tecnológico. Si en tu equipo o empresa buscáis a un perfil técnico multidisciplinar, proactivo, con iniciativa y con muchas ganas de aportar desde el primer día, me encantaría que charláramos.
 
-* 💼 **LinkedIn:** [Conecta conmigo en mi perfil profesional](https://www.linkedin.com/in/miguel-%C3%A1ngel-pascual-l%C3%B3pez-2480433a8/?skipRedirect=true) o haz clic en el botón superior.
-
----
-<p align="center">
-  <i>"El código es el medio; aportar valor real, el objetivo."</i>
+<p align="left">
+  <a href="mailto:miguel183pl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo"/>
+  </a>
 </p>
+
+
+
