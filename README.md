@@ -1,5 +1,5 @@
 # ¡Hola! Soy Miguel Ángel Pascual López 👋
-### Software Developer | Técnico Superior en DAM
+### Software Developer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-pascual-l%C3%B3pez-2480433a8/?skipRedirect=true" target="_blank">
